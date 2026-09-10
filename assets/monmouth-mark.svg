@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Monmouth Digital</title>
+  <desc id="desc">Abstract M monogram made from connected geometric blocks</desc>
+  <rect width="256" height="256" rx="128" fill="#0b0c0f"/>
+  <path d="M50 181V69h31l47 54 47-54h31v112h-35v-60l-43 48-43-48v60H50Z" fill="#f5f3ed"/>
+  <rect x="50" y="48" width="31" height="14" fill="#ff5c35"/>
+  <rect x="175" y="48" width="31" height="14" fill="#c7f23d"/>
+  <circle cx="128" cy="123" r="9" fill="#4d6bff"/>
+</svg>
